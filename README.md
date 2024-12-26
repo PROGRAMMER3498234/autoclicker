@@ -1,2 +1,2 @@
-# autoclicker
-autoclicker
+# AutoClicker
+AutoClicker made in C#
